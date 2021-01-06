@@ -18,10 +18,7 @@ class Solution{
 		*/
 		System.out.println(Integer.toBinaryString(585));
 		System.out.println(Integer.toOctalString(585));
-		System.out.println(Integer.toHexString(585));
-
-		
-		
+		System.out.println(Integer.toHexString(585));	
 	}
 	/**
 	// 将10进制转化成为2进制
