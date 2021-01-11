@@ -12,6 +12,10 @@ class Solution{
 		}
 	}
 	// 直接递归进行操作
+	/**
+	params a : 表示向上爬楼梯的人在第几层
+	param b 
+	*/
 	public static int move(int a,int b){
 		if(a>b) return 0;
 		if(a==b) return 1;
